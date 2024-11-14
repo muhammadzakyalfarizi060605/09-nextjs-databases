@@ -1,0 +1,2 @@
+## Jelaskan apa yang telah anda pelajari ? 
+Menyertakan catatan kecil pada file README.md untuk menjelaskan apa yang telah saya pelajari setelah praktik mendeploy proyek, sehingga memberikan gambaran tentang pengalaman dan pengetahuan yang diperoleh dari proses tersebut
