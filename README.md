@@ -1,2 +1,2 @@
 ## Jelaskan apa yang telah anda pelajari ? 
-Menyertakan catatan kecil pada file README.md untuk menjelaskan apa yang telah saya pelajari setelah praktik mendeploy proyek, sehingga memberikan gambaran tentang pengalaman dan pengetahuan yang diperoleh dari proses tersebut
+Saya telah berhasil mendeply proyek saya menggunakan server Vercel dan mengintegrasikannya dengan GitHub, sehingga setiap perubahan yang saya buat di repository GitHub dapat secara otomatis terupdate pada server di Vercel.
