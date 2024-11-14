@@ -9,3 +9,7 @@ Saya telah berhasil membuat database PostgreSQL di dalam server Vercel dan mengh
 ## Soal 3
 ## Jelaskan apa yang telah anda pelajari ?
 Saya berhasil melakukan proses seed untuk menambahkan data awal, yaitu mengirim data dari file data.js ke dalam database PostgreSQL di server Vercel.
+
+## Soal 4
+## Jelaskan apa yang telah anda pelajari ?
+Saya telah mempelajari proses seed data, yaitu sebuah metode untuk mengisi data awal ke dalam database PostgreSQL di server Vercel. Proses ini penting untuk memastikan bahwa database memiliki data dasar yang dibutuhkan untuk mendukung fungsionalitas aplikasi sejak tahap awal.
